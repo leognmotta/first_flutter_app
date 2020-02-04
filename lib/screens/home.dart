@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../widgets/quiz.dart';
-import '../widgets/Result.dart';
+import '../widgets/result.dart';
 
 class MyApp extends StatefulWidget {
   @override
